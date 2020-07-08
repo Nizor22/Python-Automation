@@ -1,7 +1,5 @@
-from pathlib import Path
 count = 0
-path = 'inputFile.txt'
-file = open(path, 'r')
+file = open('inputFile.txt', 'r')
 passedFile = open('Passed.txt', 'w')
 failedFile = open('Failed.txt', 'w')
 for line in file:
