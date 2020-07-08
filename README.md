@@ -1,2 +1,3 @@
 # Python-Automation
-These are some scripts I have created while learned Python for automation of mundane tasks.
+These are some scripts I have created while I took the linkedin course on Python for automation of mundane tasks.
+Every folder is 
