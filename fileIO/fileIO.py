@@ -1,6 +1,6 @@
 from pathlib import Path
 count = 0
-path = Path('C:/Users/megan/Desktop/Courses/Python_Automation/my files/fileIO/inputFile.txt')
+path = 'inputFile.txt'
 file = open(path, 'r')
 passedFile = open('Passed.txt', 'w')
 failedFile = open('Failed.txt', 'w')
