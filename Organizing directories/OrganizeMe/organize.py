@@ -8,7 +8,6 @@ SUBDIRECTORIES = {
 	"IMAGES": ['.jpg', '.jpeg', '.png']
 }
 
-#path = r'C:/Users/megan/Desktop/Courses/Python_Automation/MyFiles/Organizing directories/OrganizeMe'
 
 
 def pickDirectory(value):
