@@ -2,7 +2,7 @@ import requests
 import time
 import concurrent.futures
 
-
+# downloads an image from a passed link and saves it in a .jpg format
 def download_image(img_url):
 	img_bytes = requests.get(img_url).content
 	img_name = f'{img_url.split("/")[4]}.jpg'
@@ -19,6 +19,7 @@ def main():
 			img_urls.append(line.strip('\n'))
 	# Calls the function with every url in the list
 	with concurrent.futures.ThreadPoolExecutor() as executor:
+		# map takes a given function and a list to iterates over. 
 		executor.map(download_image, img_urls)
 
 	finish = time.perf_counter()
