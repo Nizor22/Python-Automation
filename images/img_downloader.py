@@ -13,12 +13,10 @@ def download_image(img_url):
 
 def main():
 	start = time.perf_counter()
-	img_urls = [
-		'https://unsplash.com/photos/P129qZsV1ng/download?force=true',
-		'https://unsplash.com/photos/enFZlKKwCfg/download?force=true',
-		'https://unsplash.com/photos/5uU8HSpfwkI/download?force=true',
-		'https://unsplash.com/photos/ddYsK0lKYkE/download?force=true'
-	]
+	img_urls = []
+	with open('links.txt', 'r') as file:
+		for line in file.readlines():
+			img_urls.append(line.strip('\n'))
 	# Calls the function with every url in the list
 	with concurrent.futures.ThreadPoolExecutor() as executor:
 		executor.map(download_image, img_urls)
