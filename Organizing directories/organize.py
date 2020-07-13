@@ -8,8 +8,8 @@ SUBDIRECTORIES = {
 	"IMAGES": ['.jpg', '.jpeg', '.png']
 }
 
-
-
+# Goes over the dictionary, SUBDIRECTORIES, and compares the given suffix with one's in the dictionary
+# If a match is found the category is returned, otherwise MISC directory will be returned.
 def pickDirectory(value):
 	for category, suffixes in SUBDIRECTORIES.items():
 		for suffix in suffixes:
@@ -18,8 +18,12 @@ def pickDirectory(value):
 	return 'MISC'
 
 
+# Scans the OrganizeMe directory.
+# For every file in the working directory calls pickDirectory(file's extension).
+# If the directory returned by the pickDirectory doesn't exist, a new one is created.
+# The file is then assigned a proper directory.
 def organizeDirectory():
-	for item in os.scandir():
+	for item in os.scandir('OrganizeMe'):
 		if item.is_dir():
 			continue
 		file_path = Path(item)
