@@ -6,4 +6,7 @@ the script goes over other links to speed up the proccess.
     3) Downloads the images to the working directory.
 
 # TO USE 
-Change the links in the links.txt to the links of the images you want to download.
+    1) Change the links in the links.txt to the links of the images you want to download.
+    2) Edit the working directory to the one where
+       you would like the images to download.
+    3) Run the script and enjoy faster download.\
