@@ -10,7 +10,7 @@ def download_image(img_url):
 		img_file.write(img_bytes)
 		print(f'{img_name} was downloaded')
 
-
+#
 def main():
 	start = time.perf_counter()
 	img_urls = []
