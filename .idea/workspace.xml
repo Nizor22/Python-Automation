@@ -19,9 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ac9de7f-f872-4566-a25c-a5fc9b8b2b27" name="Default Changelist" comment="adding usage guide">
+    <list default="true" id="8ac9de7f-f872-4566-a25c-a5fc9b8b2b27" name="Default Changelist" comment="idk">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Organizing directories/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Organizing directories/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Organizing directories/organize.py" beforeDir="false" afterPath="$PROJECT_DIR$/Organizing directories/organize.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594658201332</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="idk">
+      <created>1594658504649</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1594658504649</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -89,16 +97,17 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="just adding comments" />
     <MESSAGE value="adding usage guide" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding usage guide" />
+    <MESSAGE value="idk" />
+    <option name="LAST_COMMIT_MESSAGE" value="idk" />
   </component>
   <component name="WindowStateProjectService">
     <state x="114" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594658485854">
       <screen x="0" y="23" width="1280" height="739" />
     </state>
     <state x="114" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.739@0.23.1280.739" timestamp="1594658485854" />
-    <state x="438" y="332" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1594658408527">
+    <state x="438" y="332" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1594658492255">
       <screen x="0" y="23" width="1280" height="739" />
     </state>
-    <state x="438" y="332" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1280.739@0.23.1280.739" timestamp="1594658408527" />
+    <state x="438" y="332" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1280.739@0.23.1280.739" timestamp="1594658492255" />
   </component>
 </project>

@@ -4,7 +4,7 @@
     3) Create and place them in the according folder.   
 # Usage 
     1) Open organize.py
-    2) In organizeDirectory function,
-       find the os.scandir('OrganizeMe') command.
-    3) Replace 'OrganizeMe', with Directory
-       you want to organize.
+    2) On line 43, replace 'OrganizeMe', with your Directory's
+       full path.
+    3) Edit the script's configuration to change the working directory
+       to the one where you want the organized folders to go.
