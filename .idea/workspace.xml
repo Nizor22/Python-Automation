@@ -19,10 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ac9de7f-f872-4566-a25c-a5fc9b8b2b27" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Python-Automation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python-Automation.iml" afterDir="false" />
+    <list default="true" id="8ac9de7f-f872-4566-a25c-a5fc9b8b2b27" name="Default Changelist" comment="just adding comments">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Organizing directories/organize.py" beforeDir="false" afterPath="$PROJECT_DIR$/Organizing directories/organize.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Organizing directories/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Organizing directories/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +56,14 @@
       <option name="presentableId" value="Default" />
       <updated>1594653367221</updated>
     </task>
+    <task id="LOCAL-00001" summary="just adding comments">
+      <created>1594657729815</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594657729815</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -69,5 +76,15 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="just adding comments" />
+    <option name="LAST_COMMIT_MESSAGE" value="just adding comments" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="438" y="332" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1594657853407">
+      <screen x="0" y="23" width="1280" height="739" />
+    </state>
+    <state x="438" y="332" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1280.739@0.23.1280.739" timestamp="1594657853407" />
   </component>
 </project>
