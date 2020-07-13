@@ -5,6 +5,9 @@ from datetime import date
 from imap_tools import MailBox, Q
 import os
 
+
+# Logs into the GMail address and in the inbox folder looks for messages that contain
+# the word "Attendance". If it's found the message will be written into attendance_messages.txt
 def find_attendance_messages(server, mail, password):
     mailbox = MailBox(server)
     mailbox.login(mail, password, initial_folder='inbox')

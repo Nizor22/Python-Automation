@@ -21,11 +21,9 @@
   <component name="ChangeListManager">
     <list default="true" id="8ac9de7f-f872-4566-a25c-a5fc9b8b2b27" name="Default Changelist" comment="just made it more clear">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Non-Cource-Related_Practice/MouseMovement.py" beforeDir="false" afterPath="$PROJECT_DIR$/Device Manipulation/MouseMovement.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Non-Cource-Related_Practice/attendace_script.py" beforeDir="false" afterPath="$PROJECT_DIR$/Device Manipulation/attendace_script.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Non-Cource-Related_Practice/googleAPI/credentials.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Non-Cource-Related_Practice/googleAPI/googleAPI.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Non-Cource-Related_Practice/googleAPI/token.pickle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Non-Cource-Related_Practice/Attendance_Automation/attendance_script.py" beforeDir="false" afterPath="$PROJECT_DIR$/Non-Cource-Related_Practice/Attendance_Automation/attendance_script.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Non-Cource-Related_Practice/parsingTutorial/parsingTutorial.py" beforeDir="false" afterPath="$PROJECT_DIR$/Non-Cource-Related_Practice/parsingTutorial/parsingTutorial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Non-Cource-Related_Practice/usingDictionary.py" beforeDir="false" afterPath="$PROJECT_DIR$/Non-Cource-Related_Practice/usingDictionary.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,9 +144,9 @@
       <screen x="0" y="23" width="1280" height="739" />
     </state>
     <state x="114" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.739@0.23.1280.739" timestamp="1594658485854" />
-    <state x="438" y="332" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1594659820389">
+    <state x="438" y="332" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1594681414879">
       <screen x="0" y="23" width="1280" height="739" />
     </state>
-    <state x="438" y="332" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1280.739@0.23.1280.739" timestamp="1594659820389" />
+    <state x="438" y="332" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1280.739@0.23.1280.739" timestamp="1594681414879" />
   </component>
 </project>

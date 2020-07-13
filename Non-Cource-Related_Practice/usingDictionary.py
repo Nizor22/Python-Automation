@@ -1,8 +1,8 @@
 # Creates a dictionary with the given keys and values
-student = {'name': 'Nizor', 'age': 17, 'phone': '9293408051',
+student = {'name': 'Nizor', 'age': 17, 'phone': '0000000000',
            'courses': ['CompSci', 'Math', 'Art']}
 # Another way to create the same dictionary is to use 'dict' constructor
-student2 = dict(name='Afroz', age=16, phone='9292619929',
+student2 = dict(name='Afroz', age=16, phone='99999999',
                 courses=['Law', 'Math', 'Spanish'])
 
 # Printing the dictionary
