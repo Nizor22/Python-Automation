@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ac9de7f-f872-4566-a25c-a5fc9b8b2b27" name="Default Changelist" comment="just adding comments">
+    <list default="true" id="8ac9de7f-f872-4566-a25c-a5fc9b8b2b27" name="Default Changelist" comment="adding usage guide">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Organizing directories/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Organizing directories/README.md" afterDir="false" />
     </list>
@@ -37,8 +37,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -63,7 +65,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594657729815</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="adding usage guide">
+      <created>1594658201332</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1594658201332</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -79,12 +88,17 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="just adding comments" />
-    <option name="LAST_COMMIT_MESSAGE" value="just adding comments" />
+    <MESSAGE value="adding usage guide" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding usage guide" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="438" y="332" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1594657853407">
+    <state x="114" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594658485854">
       <screen x="0" y="23" width="1280" height="739" />
     </state>
-    <state x="438" y="332" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1280.739@0.23.1280.739" timestamp="1594657853407" />
+    <state x="114" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.739@0.23.1280.739" timestamp="1594658485854" />
+    <state x="438" y="332" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1594658408527">
+      <screen x="0" y="23" width="1280" height="739" />
+    </state>
+    <state x="438" y="332" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1280.739@0.23.1280.739" timestamp="1594658408527" />
   </component>
 </project>
