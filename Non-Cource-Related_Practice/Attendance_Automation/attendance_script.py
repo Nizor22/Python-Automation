@@ -6,8 +6,12 @@ from imap_tools import MailBox, Q
 import os
 
 
-# Logs into the GMail address and in the inbox folder looks for messages that contain
-# the word "Attendance". If it's found the message will be written into attendance_messages.txt
+''' 1)Logs into the GMail address 
+    2)Checks the inbox folder and looks for messages that were sent on that current date 
+        and contain the word "Attendance".
+    3)If a message is found it will be written into attendance_messages.txt
+        with the number of urls parsed. 
+'''
 def find_attendance_messages(server, mail, password):
     mailbox = MailBox(server)
     mailbox.login(mail, password, initial_folder='inbox')
@@ -21,7 +25,7 @@ def find_attendance_messages(server, mail, password):
     f.close()
     mailbox.logout()
 
-
+# Opens the attendance_messages.txt, finds and appends to the links list attendance URL links.
 def get_urls(message_path, links):
     inFile = open(message_path, 'r')
     for line in inFile:
@@ -34,6 +38,7 @@ def get_urls(message_path, links):
             links.append(line)
 
 
+# Gives coordinates for mouse's location on the display whenever the mouse moves.
 def location_finder():
     time.sleep(4)
     SCREENSHOT_PATH = r"C:\Users\megan\Desktop\screenshots"
@@ -42,7 +47,7 @@ def location_finder():
     while infinity:
         print(pg.position())
 
-
+# Extracts the data required for auto-fill from credentials.txt into a list named data.
 def get_credentials(file):
     inFile = open(file, 'r')
     global data
@@ -51,7 +56,8 @@ def get_credentials(file):
         data.append(line.rstrip())
     inFile.close()
 
-
+# Finds the school attendance tab, and
+# uses the Pyautogui commands to fill in the school-wide attendance.
 def school_attendance():
     # Choose the tab
     try:
@@ -94,7 +100,7 @@ def school_attendance():
     except:
         print('The perlowitz tab is not opened or not found.')
 
-
+# Finds the math tab and fills in the Math attendance.
 def math_attendance():
     # Choose the tab
     try:
@@ -136,6 +142,7 @@ def math_attendance():
         print('The math tab is not opened or not found.')
 
 
+# Finds the science tab and fills in the science attendance.
 def science_attendance():
     # Choose the tab
     try:
@@ -155,8 +162,9 @@ def science_attendance():
     except:
         print('The science tab is not opened or not found.')
 
-
-def do_attendance():
+# Uses webbrowser to open a browser with a new tab for every url grabbed from gmail.
+# calls the functions to do find and fill in every attendance.
+def do_attendance(url_links):
     for url in url_links:
         webbrowser.open_new_tab(url)
     school_attendance()
@@ -164,24 +172,28 @@ def do_attendance():
     science_attendance()
 
 
-# MAIN
-before = time.time()
-# All path variables
-credential_path = r'C:/Users/megan/Desktop/Courses/Python_Automation/MyFiles/Non-Cource-Related_Practice/Attendance_Automation/credentials.txt'
-textPath = r'C:/Users/megan/Desktop/Courses/Python_Automation/MyFiles/Non-Cource-Related_Practice/Attendance_Automation/attendance_messages.txt'
-# Server-required info
-EMAIL = 'nfarukhzoda6058@ermurrowhs.org'
-PASSWORD = '242306058'
-SERVER = 'imap.gmail.com'
-# Method-required variables
-today = date.today().strftime('%Y, %m, %d')
-url_links = []
-# Methods:
-get_credentials(credential_path)
-find_attendance_messages(SERVER, EMAIL, PASSWORD)
-get_urls(textPath, url_links)
-do_attendance()
-# location_finder()
-# Time analyzer
-after = time.time()
-print(after - before)
+def main():
+    before = time.perf_counter()
+    # All path variables
+    credential_path = r'C:/Users/megan/Desktop/Courses/Python_Automation/MyFiles/Non-Cource-Related_Practice/Attendance_Automation/credentials.txt'
+    textPath = r'C:/Users/megan/Desktop/Courses/Python_Automation/MyFiles/Non-Cource-Related_Practice/Attendance_Automation/attendance_messages.txt'
+    # Server-required info
+    EMAIL = 'nfarukhzoda6058@ermurrowhs.org'
+    PASSWORD = '242306058'
+    SERVER = 'imap.gmail.com'
+    # Method-required variables
+    today = date.today().strftime('%Y, %m, %d')
+    url_links = []
+    # Methods:
+    get_credentials(credential_path)
+    find_attendance_messages(SERVER, EMAIL, PASSWORD)
+    get_urls(textPath, url_links)
+    do_attendance(url_links)
+    # location_finder()
+    # Time analyzer
+    after = time.perf_counter()
+    print(f'Finished in {round(after - before, 2)}')
+
+
+if __name__ == '__main__':
+    main()

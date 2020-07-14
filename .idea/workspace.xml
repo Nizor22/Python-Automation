@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ac9de7f-f872-4566-a25c-a5fc9b8b2b27" name="Default Changelist" comment="just checking" />
+    <list default="true" id="8ac9de7f-f872-4566-a25c-a5fc9b8b2b27" name="Default Changelist" comment="just checking">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Non-Cource-Related_Practice/Attendance_Automation/attendance_script.py" beforeDir="false" afterPath="$PROJECT_DIR$/Non-Cource-Related_Practice/Attendance_Automation/attendance_script.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -132,6 +135,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="just adding comments" />
