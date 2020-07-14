@@ -19,10 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ac9de7f-f872-4566-a25c-a5fc9b8b2b27" name="Default Changelist" comment="Added scripts">
-      <change beforePath="$PROJECT_DIR$/../COVID19/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../COVID19/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8ac9de7f-f872-4566-a25c-a5fc9b8b2b27" name="Default Changelist" comment="Added README file" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -141,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594756698811</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Added README file">
+      <created>1594757099473</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1594757099473</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -165,7 +169,8 @@
     <MESSAGE value="just checking" />
     <MESSAGE value="added comments" />
     <MESSAGE value="Added scripts" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added scripts" />
+    <MESSAGE value="Added README file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added README file" />
   </component>
   <component name="WindowStateProjectService">
     <state x="114" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594658485854">
