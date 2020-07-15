@@ -22,6 +22,7 @@
     <list default="true" id="8ac9de7f-f872-4566-a25c-a5fc9b8b2b27" name="Default Changelist" comment="added a README file">
       <change beforePath="$PROJECT_DIR$/../Learning-Python/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Learning-Python/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-Web-Scraping/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Python-Web-Scraping/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +30,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Learning-Python" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Python-Web-Scraping" />
   </component>
   <component name="ProjectId" id="1edZKZNs60BiQekq5XGwOnxIvc1" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -173,7 +174,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594825202567</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="added a README file">
+      <created>1594833734599</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1594833734599</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -213,5 +221,9 @@
     </state>
     <state x="438" y="332" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1280.738@0.23.1280.738" timestamp="1594756710871" />
     <state x="438" y="332" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1280.739@0.23.1280.739" timestamp="1594681462618" />
+    <state x="315" y="85" width="670" height="676" key="search.everywhere.popup" timestamp="1594833974509">
+      <screen x="0" y="23" width="1280" height="738" />
+    </state>
+    <state x="315" y="85" width="670" height="676" key="search.everywhere.popup/0.23.1280.738@0.23.1280.738" timestamp="1594833974509" />
   </component>
 </project>
