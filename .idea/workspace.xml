@@ -19,12 +19,18 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ac9de7f-f872-4566-a25c-a5fc9b8b2b27" name="Default Changelist" comment="added a README file and modified another one.">
-      <change afterPath="$PROJECT_DIR$/../Python-Web-Scraping/PupilPath/PupilPath.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python-Web-Scraping/PupilPath/PupilPath_parser.py" afterDir="false" />
+    <list default="true" id="8ac9de7f-f872-4566-a25c-a5fc9b8b2b27" name="Default Changelist" comment="created a PupilPath parser">
+      <change afterPath="$PROJECT_DIR$/../Python-Django/.idea/Python-Django.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python-Django/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python-Django/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python-Django/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python-Automation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python-Automation.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Python-Web-Scraping/parsingTutorial/parsingTutorial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Python-Web-Scraping/parsingTutorial/simple.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-Django/wisdompets/adoptions/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Python-Django/wisdompets/adoptions/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-Django/wisdompets/adoptions/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Python-Django/wisdompets/adoptions/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +38,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Python-Web-Scraping" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Python-Django" />
   </component>
   <component name="ProjectId" id="1edZKZNs60BiQekq5XGwOnxIvc1" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -218,7 +224,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594834137738</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="created a PupilPath parser">
+      <created>1594840267548</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1594840267548</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -248,7 +261,8 @@
     <MESSAGE value="added a readme file." />
     <MESSAGE value="added a README file" />
     <MESSAGE value="added a README file and modified another one." />
-    <option name="LAST_COMMIT_MESSAGE" value="added a README file and modified another one." />
+    <MESSAGE value="created a PupilPath parser" />
+    <option name="LAST_COMMIT_MESSAGE" value="created a PupilPath parser" />
   </component>
   <component name="WindowStateProjectService">
     <state x="114" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594835894582">

@@ -7,5 +7,6 @@
     <orderEntry type="module" module-name="COVID19" />
     <orderEntry type="module" module-name="Learning-Python" />
     <orderEntry type="module" module-name="Python-Web-Scraping" />
+    <orderEntry type="module" module-name="Python-Django" />
   </component>
 </module>
