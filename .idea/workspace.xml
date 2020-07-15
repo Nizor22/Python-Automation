@@ -19,7 +19,32 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ac9de7f-f872-4566-a25c-a5fc9b8b2b27" name="Default Changelist" comment="Added README file" />
+    <list default="true" id="8ac9de7f-f872-4566-a25c-a5fc9b8b2b27" name="Default Changelist" comment="Added README file">
+      <change afterPath="$PROJECT_DIR$/../Python-Web-Scraping/.idea/Python-Web-Scraping.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python-Web-Scraping/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python-Web-Scraping/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python-Web-Scraping/parsingTutorial/parsingTutorial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python-Web-Scraping/parsingTutorial/simple.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../COVID19/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../COVID19/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python-Automation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python-Automation.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Non-Cource-Related_Practice/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Non-Cource-Related_Practice/.idea/Non-Cource-Related_Practice.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Non-Cource-Related_Practice/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Non-Cource-Related_Practice/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Non-Cource-Related_Practice/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Non-Cource-Related_Practice/Attendance_Automation/attendance_messages.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Attendance_Automation/attendance_messages.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Non-Cource-Related_Practice/Attendance_Automation/attendance_script.py" beforeDir="false" afterPath="$PROJECT_DIR$/Attendance_Automation/attendance_script.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Non-Cource-Related_Practice/Attendance_Automation/credentials.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Attendance_Automation/credentials.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Non-Cource-Related_Practice/parsingTutorial/parsingTutorial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Non-Cource-Related_Practice/parsingTutorial/simple.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Non-Cource-Related_Practice/usingDictionary.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Non-Cource-Related_Practice/usingFString.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Non-Cource-Related_Practice/usingOS.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Non-Cource-Related_Practice/usingPathJoin.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,6 +71,9 @@
       <recent name="$PROJECT_DIR$/../COVID19" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/../Python-Web-Scraping" />
+      <recent name="$PROJECT_DIR$/../Learning-Python" />
       <recent name="$PROJECT_DIR$/Device Manipulation" />
       <recent name="$PROJECT_DIR$/Organizing directories" />
     </key>
