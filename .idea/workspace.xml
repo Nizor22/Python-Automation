@@ -19,31 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ac9de7f-f872-4566-a25c-a5fc9b8b2b27" name="Default Changelist" comment="Added README file">
-      <change afterPath="$PROJECT_DIR$/../Python-Web-Scraping/.idea/Python-Web-Scraping.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python-Web-Scraping/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python-Web-Scraping/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python-Web-Scraping/parsingTutorial/parsingTutorial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python-Web-Scraping/parsingTutorial/simple.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../COVID19/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../COVID19/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python-Automation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python-Automation.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="8ac9de7f-f872-4566-a25c-a5fc9b8b2b27" name="Default Changelist" comment="added a readme file.">
+      <change afterPath="$PROJECT_DIR$/../Learning-Python/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Non-Cource-Related_Practice/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Non-Cource-Related_Practice/.idea/Non-Cource-Related_Practice.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Non-Cource-Related_Practice/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Non-Cource-Related_Practice/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Non-Cource-Related_Practice/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Non-Cource-Related_Practice/Attendance_Automation/attendance_messages.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Attendance_Automation/attendance_messages.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Non-Cource-Related_Practice/Attendance_Automation/attendance_script.py" beforeDir="false" afterPath="$PROJECT_DIR$/Attendance_Automation/attendance_script.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Non-Cource-Related_Practice/Attendance_Automation/credentials.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Attendance_Automation/credentials.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Non-Cource-Related_Practice/parsingTutorial/parsingTutorial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Non-Cource-Related_Practice/parsingTutorial/simple.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Non-Cource-Related_Practice/usingDictionary.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Non-Cource-Related_Practice/usingFString.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Non-Cource-Related_Practice/usingOS.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Non-Cource-Related_Practice/usingPathJoin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/img_downloader.py" beforeDir="false" afterPath="$PROJECT_DIR$/images/img_downloader.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +30,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../COVID19" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Learning-Python" />
   </component>
   <component name="ProjectId" id="1edZKZNs60BiQekq5XGwOnxIvc1" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -64,10 +43,11 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../COVID19" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Attendance_Automation" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Attendance_Automation" />
       <recent name="$PROJECT_DIR$/../COVID19" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -173,7 +153,21 @@
       <option name="project" value="LOCAL" />
       <updated>1594757099473</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Modified the readme file and got rid of the non cource related folder.">
+      <created>1594824701446</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1594824701446</updated>
+    </task>
+    <task id="LOCAL-00014" summary="added a readme file.">
+      <created>1594824806470</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1594824806470</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -198,7 +192,9 @@
     <MESSAGE value="added comments" />
     <MESSAGE value="Added scripts" />
     <MESSAGE value="Added README file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added README file" />
+    <MESSAGE value="Modified the readme file and got rid of the non cource related folder." />
+    <MESSAGE value="added a readme file." />
+    <option name="LAST_COMMIT_MESSAGE" value="added a readme file." />
   </component>
   <component name="WindowStateProjectService">
     <state x="114" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594658485854">
