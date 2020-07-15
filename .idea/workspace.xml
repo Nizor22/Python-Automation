@@ -19,10 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ac9de7f-f872-4566-a25c-a5fc9b8b2b27" name="Default Changelist" comment="added a readme file.">
-      <change afterPath="$PROJECT_DIR$/../Learning-Python/README.md" afterDir="false" />
+    <list default="true" id="8ac9de7f-f872-4566-a25c-a5fc9b8b2b27" name="Default Changelist" comment="added a README file">
+      <change beforePath="$PROJECT_DIR$/../Learning-Python/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Learning-Python/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/img_downloader.py" beforeDir="false" afterPath="$PROJECT_DIR$/images/img_downloader.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -167,7 +166,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594824806470</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="added a README file">
+      <created>1594825202566</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1594825202567</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -194,7 +200,8 @@
     <MESSAGE value="Added README file" />
     <MESSAGE value="Modified the readme file and got rid of the non cource related folder." />
     <MESSAGE value="added a readme file." />
-    <option name="LAST_COMMIT_MESSAGE" value="added a readme file." />
+    <MESSAGE value="added a README file" />
+    <option name="LAST_COMMIT_MESSAGE" value="added a README file" />
   </component>
   <component name="WindowStateProjectService">
     <state x="114" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594658485854">
